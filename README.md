@@ -4,7 +4,7 @@
 ![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite%20Pro-Required-orange.svg)
 
 
-# This fork**
+# This fork
 
 The enhancements in this repository (API authentication, configuration UI with port/token/auto-generate/copy, and related robustness fixes) were added to make Belch easier to secure and operate in our environment. We are grateful to the original author and the community around Belch.
 
