@@ -3,10 +3,12 @@
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg)
 ![Burp Suite Pro](https://img.shields.io/badge/Burp%20Suite%20Pro-Required-orange.svg)
 
+--
 **This fork**
 
 The enhancements in this repository (API authentication, configuration UI with port/token/auto-generate/copy, and related robustness fixes) were added to make Belch easier to secure and operate in our environment. We are grateful to the original author and the community around Belch.
 
+--
 REST API extension for Burp Suite Professional providing programmatic access to proxy traffic, active scanner, scope management, and collaborative testing workflows. Designed for security teams implementing scripted testing workflows and custom tooling integrations.
 
 **⚠️ Requires Burp Suite Professional - This is an extension, not a standalone tool.**
@@ -202,10 +204,6 @@ Output: `target/belch-1.0.1.jar`.
 This project is based on [Belch](https://github.com/campbellcharlie/belch) by **[Charlie Campbell](https://github.com/campbellcharlie)**. Thank you for building and sharing the Burp REST API extension and for the clear, well-structured codebase.
 
 Special thanks also to [Phil Thomas](https://github.com/fz42net) for the name “Belch”—it fits the extension perfectly.
-
-**This fork**
-
-The enhancements in this repository (API authentication, configuration UI with port/token/auto-generate/copy, and related robustness fixes) were added to make Belch easier to secure and operate in our environment. We are grateful to the original author and the community around Belch.
 
 ---
 
